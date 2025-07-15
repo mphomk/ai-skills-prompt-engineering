@@ -1,0 +1,27 @@
+prompt: "Write a professional email to a stakeholder explaining that you need more information for the new WhatsApp project to do a thorough requirement analysis."
+ai_response: "[Subject: Request for Additional Information – WhatsApp Project Requirements
+
+Dear [Stakeholder's Name],
+
+I hope this message finds you well.
+
+As we begin the initial stages of the new WhatsApp project, I am currently working on conducting a thorough requirements analysis to ensure we align the solution with business needs and user expectations. To proceed effectively, I would appreciate your assistance in providing some additional information and clarification on a few key areas.
+
+Specifically, it would be helpful to understand:
+
+The primary objectives and expected outcomes of the WhatsApp integration
+Target user groups and any specific user journeys we should consider
+Functional and non-functional requirements (e.g., message types, automation, response times)
+Any compliance, security, or data privacy considerations
+Integration points with existing systems or platforms
+Having this information will enable us to define a clear scope and ensure that the solution we design is both effective and scalable.
+
+Please let me know a convenient time for a quick discussion, or feel free to share any relevant documentation or notes you may already have.
+
+Looking forward to your guidance.
+
+Warm regards,
+Mpho Mukwevho
+Junior Business Analyst
+[Your Company Name]
+[Your Contact Information]]"
